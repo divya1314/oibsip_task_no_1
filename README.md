@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Sentiment Analysis
 
 ## Project Overview
 This project aims to perform customer segmentation analysis using clustering techniques. By analyzing reviews, ratings, and other features of various mobile apps, we aim to identify distinct segments of customers that share similar characteristics. This analysis can help in targeted marketing, product development, and enhancing user experience.
